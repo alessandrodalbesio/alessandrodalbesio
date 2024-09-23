@@ -1,9 +1,11 @@
 <div id="header" align="center">
   <img src="./images/coding-cat.gif" alt="Coding Cat" width="200px" height="200px">
 </div>
-<span style="text-align: center; display: block; font-size: 2em; font-weight: bold;">
-    Hey there 👋
-</span>
+<div align="center">
+
+# Hey there 👋
+
+</div>
 
 ## About Me
 Hi! I'm Alessandro Dalbesio. Here are some things you should know about me:
